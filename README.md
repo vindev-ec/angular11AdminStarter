@@ -1,9 +1,11 @@
-# AngularTemplate
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
+# Angular 11 Admin Starter Template - VinDev EC 
+![](src/assets/img/preview_1.png)
 
 ## Install dependencies
 Run `npm install`
+
+## Angular Version
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
 ## Development server
 
